@@ -41,7 +41,6 @@ env/
 # Data files (IMPORTANT: Do not commit data)
 data/processed/*.pkl
 data/external_validation/*.pkl
-*.csv
 *.h5
 *.hdf5
 
