@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (IMPORTANT: Do not commit data)
+data/processed/*.pkl
+data/external_validation/*.pkl
+*.csv
+*.h5
+*.hdf5
+
+# Model outputs
+outputs/
+output/
+logs/
+*.pth
+*.pt
+*.ckpt
+feature_selection_output/
+experiment_results/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Results and analysis
+results/
+analysis_output/
+patient_data/
+*.pkl
+!configs/*.pkl
+!data/README.md
+
+# Temporary files
+*.tmp
+*.log
+.cache/
