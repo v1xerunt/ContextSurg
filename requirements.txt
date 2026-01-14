@@ -20,4 +20,4 @@ scipy>=1.7.0
 
 # Notebook support (optional, for preprocessing)
 jupyter>=1.0.0
-ipykernel>=6.9.0
+ipykernel>=6.9.0 
