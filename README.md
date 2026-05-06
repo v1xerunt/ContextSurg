@@ -1,4 +1,4 @@
-# ContextSurg: Harnessing Context-Aware Deep Learning to Predict Postoperative Complications Across 108 Countries
+# ContextSurg: Harnessing Context-Aware Deep Learning to Predict Postoperative Complications Across 109 Countries
 
 This repository contains the official implementation of the ContextSurg model.
 Please visit [Country Visualization](https://v1xerunt.github.io/ContextSurg/) to see the country performance map.
@@ -167,16 +167,3 @@ python -m http.server 8000
 ```
 
 The visualization is also available as a GitHub Pages site (see project website).
-<!-- 
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{yourpaper2024,
-  title={ContextSurg for Healthcare Risk Prediction Across Diverse Settings},
-  author={Your Name et al.},
-  journal={Journal Name},
-  year={2024}
-}
-``` -->
